@@ -1,0 +1,13 @@
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\bin\Debug\netcoreapp2.1\Zadacha 6.deps.json
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\bin\Debug\netcoreapp2.1\Zadacha 6.runtimeconfig.json
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\bin\Debug\netcoreapp2.1\Zadacha 6.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\bin\Debug\netcoreapp2.1\Zadacha 6.dll
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\bin\Debug\netcoreapp2.1\Zadacha 6.pdb
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\obj\Debug\netcoreapp2.1\Zadacha 6.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\obj\Debug\netcoreapp2.1\Zadacha 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\obj\Debug\netcoreapp2.1\Zadacha 6.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\obj\Debug\netcoreapp2.1\Zadacha 6.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\obj\Debug\netcoreapp2.1\Zadacha 6.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\obj\Debug\netcoreapp2.1\Zadacha 6.dll
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\obj\Debug\netcoreapp2.1\Zadacha 6.pdb
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 6\obj\Debug\netcoreapp2.1\Zadacha 6.genruntimeconfig.cache
